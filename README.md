@@ -19,6 +19,12 @@ Pendiente de activación definitiva por parte del cliente.
 
 Actualmente en uso por el negocio, aunque no publicada de forma abierta.
 
+## Capturas de pantalla
+
+![Catálogo de productos](screenshot-catalogo.png)
+
+![Finalizar pedido por WhatsApp](screenshot-pedido.png)
+
 ---
 
 ## Funcionalidades
