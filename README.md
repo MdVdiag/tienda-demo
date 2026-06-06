@@ -3,6 +3,14 @@
 > Catálogo digital con pedidos por WhatsApp, desarrollado para una pyme real.  
 > Un proyecto funcional que ayuda a vender más con tecnología sencilla y accesible.
 
+## Estado del proyecto
+
+![Version](https://img.shields.io/badge/versión-1.0.0--beta-orange)
+![Estado](https://img.shields.io/badge/estado-en%20desarrollo-yellow)
+
+Versión beta funcional desarrollada para una pyme del sector moda infantil. 
+Pendiente de activación definitiva por parte del cliente.
+
 ---
 
 ## ¿Qué es?
